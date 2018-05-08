@@ -1,0 +1,7 @@
+jupyter
+jupyterlab
+dask[complete]
+graphviz
+scikit-learn
+bokeh
+h5py
