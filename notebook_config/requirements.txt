@@ -1,6 +1,6 @@
 jupyter
 jupyterlab
-dask[complete]
+dask[complete]==0.17.4
 dask-ml
 graphviz
 scikit-learn
