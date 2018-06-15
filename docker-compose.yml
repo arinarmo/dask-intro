@@ -18,8 +18,7 @@ services:
       - ./data:/data
 
   notebook:
-    build:
-      context: ./notebook_config
+    image: arinarmo/daskintro_notebook:latest
     entrypoint: jupyter notebook
     ports:
       - 8888:8888
