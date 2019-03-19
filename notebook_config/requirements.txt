@@ -1,9 +1,0 @@
-jupyter
-jupyterlab
-dask[complete]==0.17.4
-dask-ml
-graphviz
-scikit-learn
-bokeh
-h5py
-matplotlib
