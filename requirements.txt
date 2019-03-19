@@ -1,0 +1,6 @@
+dask[complete]==1.1.2
+jupyterlab
+matplotlib
+graphviz
+numpy==1.16.0
+pandas==0.24.0
