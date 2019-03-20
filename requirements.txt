@@ -1,4 +1,4 @@
-dask[complete]==1.1.2
+dask[complete]
 jupyterlab
 matplotlib
 graphviz
